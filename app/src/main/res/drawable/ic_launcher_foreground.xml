@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer thick protective circle frame -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,22 A32,32 0 1,1 53.9,22" />
+
+    <!-- Stylized Landscape Garden Sprout -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 C54,34 56.5,41 63,44 C67,45.8 70,44.5 70,44.5 C70,44.5 67,51 59.5,50 C57,49.7 55.5,47.5 55.5,47.5 L55.5,74 C55.5,74.8 54.8,75.5 54,75.5 C53.2,75.5 52.5,74.8 52.5,74 L52.5,53 C52.5,53 48,55 45,51 C42,47 45.5,41.5 45.5,41.5 C45.5,41.5 49,43 51,47 C52,49 52.5,50.5 52.5,50.5 L52.5,35 C52.5,34.2 53.2,33.5 54,33.5 Z" />
+
+    <!-- Stylized Billing / Invoice Sheet symbol at bottom base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,62 H44 V64 H38 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,67 H44 V69 H38 Z" />
+</vector>

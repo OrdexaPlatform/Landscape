@@ -1,0 +1,6 @@
+{
+  "name": "نظام فواتير لاندسكيب",
+  "description": "نظام مالي لإدارة فواتير وعملاء ومشاريع الاندسكيب مع تعقب رأس المال في البنوك والخزينة، ومتابعة الأرباح وصرف المتبقي التنازلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
